@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @luminato
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 oi, me chamo fabricio
+- 📚 estou sempre em busca de novos conhecimentos.
+- 🎓 Formado em Ciências da computação.
+- 💻 Atualmente estou estudando e me especializando em java.
+- 💼 Estou disponivel ao mercado de trabalho para qualquer oportunidade na área da tecnologia.
+- 📫 contato: luminato.silva@gmail.com / (81) 98107-4121.
 
-<!---
-luminato/luminato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
