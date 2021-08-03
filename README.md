@@ -11,7 +11,7 @@ gosto muito de trabalhar com desenvolvimento mobile e desenvolvendo novas habili
  
 ## Links
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hellenmas)](https://github.com/luminato)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/fabricioluminato)](www.linkedin.com/in/fabricioluminato)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricioluminato)](https://www.linkedin.com/in/fabricioluminato)
 
 ## Histórico de Linguagens:
 [![Linguagens Ultilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luminato&layout=compact)](https://github.com/luminato/github-readme-stats)
